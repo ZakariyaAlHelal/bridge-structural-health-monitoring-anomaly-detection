@@ -1,4 +1,4 @@
-# Data-Driven Unsupervised Anomaly Detection for Bridge Structural Health Monitoring
+# README.md
 
 This repository contains a course-project implementation for event-level anomaly detection using structural-health-monitoring data from the Vänersborg Bridge.
 
