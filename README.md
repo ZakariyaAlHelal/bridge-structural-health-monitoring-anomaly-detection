@@ -25,3 +25,4 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+streamlit run Bridge_Monitoring_Dashboard.py
