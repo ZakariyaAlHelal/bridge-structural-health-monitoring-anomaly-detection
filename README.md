@@ -2,6 +2,12 @@
 
 This repository contains a course-project implementation for event-level anomaly detection using structural-health-monitoring data from the Vänersborg Bridge.
 
+## Live dashboard
+
+The deployed dashboard is available here:
+
+[Open the Bridge Structural Health Monitoring Dashboard](https://bridge-shm-anomaly-detection.streamlit.app)
+
 ## Contents
 
 - `Bridge_Monitoring_Dashboard.py` — interactive Streamlit dashboard
@@ -19,9 +25,9 @@ The project compares:
 
 The dashboard also includes an adjustable simulation scenario for exploring hypothetical anomaly conditions. The simulation is separate from the validated historical results.
 
-## Running the dashboard
+## Running the dashboard locally
 
-Install the required packages:
+Install the required packages and launch the dashboard:
 
 ```bash
 pip install -r requirements.txt
