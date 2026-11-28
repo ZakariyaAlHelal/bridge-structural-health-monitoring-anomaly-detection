@@ -521,7 +521,7 @@ with agreement_col:
     agreement_fig.subplots_adjust(bottom=0.25)
     agreement_fig.tight_layout()
     agreement_left, agreement_center, agreement_right = st.columns(
-    [1, 2, 1]
+    [0.5, 3, 0.5]
 )
 
 with agreement_center:
