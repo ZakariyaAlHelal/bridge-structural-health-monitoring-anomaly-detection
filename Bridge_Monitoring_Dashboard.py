@@ -498,7 +498,7 @@ with agreement_col:
     agreement_bars = agreement_axis.bar(
         agreement_counts.index,
         agreement_counts.values,
-        width=0.5,
+        width=0.4,
         color=["#1f6f8b", "#2f80ed", "#27ae60", "#b8c4ce"],
         edgecolor="white",
     )
